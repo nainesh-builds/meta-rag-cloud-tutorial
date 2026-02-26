@@ -58,4 +58,8 @@ bin/
 *.swp
 *.swo
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> 1ef3332f8bf2103462ea7e1a7aa439b9464525cb
